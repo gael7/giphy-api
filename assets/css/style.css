@@ -3,4 +3,10 @@
 }
 .cityGif{
 	display: inline;
+	width: 250px;
+	margin-bottom: 5px;
+}
+.banner{
+	background-image: url(../images/Europe_Banner.jpg);
+	background-size: contain;
 }
